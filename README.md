@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Screen Shot 2021-08-30 at 11 37 07 PM](https://user-images.githubusercontent.com/79954805/131455514-6b53b313-e1c6-4fa9-a752-df6ca861eeea.png)
+https://lindseykrause.github.io/lindseyKrause/
 <!--
 **LindseyKrause/lindseyKrause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
