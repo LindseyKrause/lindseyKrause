@@ -4033,3 +4033,7 @@ margin: 20px;
 margin: 20px;
 margin-top: 60px;
 		}
+		.aboutimg {
+			justify-content: right;
+			width: 50%;
+		}
