@@ -3866,7 +3866,7 @@ input, select, textarea {
 	}
 
 	#wrapper section:last-child.wrapper.style1:before {
-		background: #24242a;
+		/*removed background color dark gray*/
 		bottom: 0;
 		content: '';
 		height: 15rem;
